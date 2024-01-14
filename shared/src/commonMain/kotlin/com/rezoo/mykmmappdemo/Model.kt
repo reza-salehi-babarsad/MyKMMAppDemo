@@ -1,4 +1,6 @@
 package com.rezoo.mykmmappdemo
 
-class Model {
-}
+data class Model(
+    val model:String
+)
+
