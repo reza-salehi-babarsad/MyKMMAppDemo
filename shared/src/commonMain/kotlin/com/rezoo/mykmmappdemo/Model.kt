@@ -6,7 +6,8 @@ data class Model(
     val model3:String,val model5:String,
     val model9:String,
     val model1o:String,
-    val model12:String
+    val model12:String,
+    val model16:String
 
 )
 
